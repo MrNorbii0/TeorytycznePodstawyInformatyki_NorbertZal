@@ -1,19 +1,26 @@
 # TeorytycznePodstawyInformatyki
 
 Szanowny Panie Profesorze,
+
 W repozytorium znajdują się moje projekty programistyczne z różnych etapów nauki.
 
 ## Zawartość Repozytorium:
 Projekty w językach: C++, C#, Python, aplikacje mobilne.
+
 Najwięcej przykładów jest z Pythona, w tym kilka prób zadań algorytmicznych.
+
 Do C# i aplikacji mobilnych załączyłem plik z linkiem do Google Drvie, ponieważ archiwum było za duże, żeby je zamieścić w repozytorium.
+
 Zamieściłem również plik z linkiem do mojej strony internetowej, którą realnie wykorzystuję w swojej działalności. Strona jest postawiona na WordPresie. W lutym planuję modernizację sekcji "Portfolio", tak aby była responsywnijesza.
 
 ## Ukończone Kursy:
 
 Python 3 - od podstaw do eksperta
+
 Struktury i algorytmy w Pythonie
+
 Kurs webowy #1 (HTML, CSS, RWD)
+
 Kurs webowy #2 (Bootstrap, JS)
 
 W repozytorium załączyłem screeny kursów z Udemy.
