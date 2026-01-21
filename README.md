@@ -1,0 +1,1 @@
+# TeorytycznePodstawyInformatyki---Norbert-al
