@@ -26,6 +26,6 @@ Kurs webowy #2 (Bootstrap, JS)
 W repozytorium załączyłem screeny kursów z Udemy.
 
 ## Dodatkowe Informacje:
-W wyniku ukończenia kursów webowych, wykonałem pokazową stronę internetową wykorzystująca elementy poznane na kursach, a także dodałem elementy PHP i baz danych od siebie. Niestety dysk, na którym znajdowały się wszystkie dane nie przetrwał próby czasu i nie jestem w stanie w tym momnecie odzyskać tej strony :(
+W wyniku ukończenia kursów webowych, wykonałem pokazową stronę internetową wykorzystująca elementy poznane na kursach, a także dodałem elementy PHP i baz danych od siebie. Niestety dysk, na którym znajdowały się wszystkie dane nie przetrwał próby czasu i nie jestem w stanie w tym momencie odzyskać tej strony :(
 
 Znaczna większość powyższych projektów powstała w celach edukacyjnych i rozwojowych, często jeszcze za czasów technikum. Na pewno nie są to gotowe produkty, czy realne programy, których można by używać, ale pokazują proces zdobywania wiedzy z programowania.
